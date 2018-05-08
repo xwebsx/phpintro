@@ -1,6 +1,7 @@
 <?php
  
- 	echo "Hello World";
- 	echo "JaCC";
+ 	echo "Hello <strong>World</strong>";
+    echo "Kek";
+
 
  ?>
